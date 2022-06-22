@@ -43,7 +43,7 @@ const CustomDropdown = () => {
   const handleCheck = () => {
     data[0].check = true
     console.log(data)
-  }
+  } 
   return (
     <div>
       <Multiselect
